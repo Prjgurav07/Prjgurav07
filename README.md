@@ -10,8 +10,9 @@
 <p>
  📚 Currently enrolled in <strong>Postgraduate Diploma in Data Science & Analytics</strong> from <strong>Imarticus Learning.</strong><br>
  🎓 Completed <strong>B.Tech in Information Technology.</strong><br>
- 🚀 <em>Passionate about transforming raw data into meaningful, <strong>actionable insights</strong> using statistics, ML, and BI tools.</em><br>
- 📧 How to reach me: <a href="mailto:prajwalgurav562@gmail.com"> prajwalgurav562@gmail.com</a>
+ 🚀 <em>Passionate about transforming raw data into meaningful, <strong>actionable insights</strong> using statistics, ML, and BI tools.</em><br><br>
+ 📧 How to reach me: <a href="mailto:prajwalgurav562@gmail.com"> prajwalgurav562@gmail.com</a><br><br>
+ 📄 Check out my portfolio: <a href="https://prjgurav07.github.io/">Click here </a>
 </p>
 
 
